@@ -1,0 +1,14 @@
+{
+  "zPQpQ11ywwHM0d98KVK7fgxXPnPbMkUObeLyw": {
+    "name": "citi",
+    "include": true
+  },
+  "3PXa9vboVPFjDJndd0oVHM7w4VKZx7IKjpXz9": {
+    "name": "simpleShared",
+    "include": true
+  },
+  "BJXA1EdDpJt8xwv447BpfarVzknNOrC90Ym8Y": {
+    "name": "simpleAdam",
+    "include": false
+  }
+}

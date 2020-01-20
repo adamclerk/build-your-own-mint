@@ -1,0 +1,11 @@
+{
+  "xxx": {
+    "name": "creditAccount"
+  },
+  "yyy": {
+    "name": "jointAccount"
+  },
+  "zzz": {
+    "name": "shardAccount"
+  }
+}
